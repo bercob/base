@@ -1,0 +1,22 @@
+en:
+  common:
+    app_name: Album
+    confirms:
+      are_you_sure: Are you sure ?
+  navigation:
+    menu:
+      upload: Upload
+      logout: Logout
+    labels:
+      welcome: Welcome
+  sessions:
+    labels:
+      email: Email
+      password: Password
+      login: Login
+    alerts:
+      login_first: You have to login first.
+      authenticate_failed: Authentication has been failed.
+    notices:
+      logout_ok: You have logged out successfuly.
+      login_ok: You have logged in successfuly.
